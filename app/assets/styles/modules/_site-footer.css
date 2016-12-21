@@ -1,7 +1,10 @@
 .site-footer {
+	position: absolute;
+	width: 100%;
+	left: 0px;
 	background-color: $mainBlue;
 	color: #FFF;
-	padding: .5rem 0;
+	padding: .5rem 0rem;
 	text-align: center;
 
 &__text {
